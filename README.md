@@ -20,7 +20,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=30&duration=2000&pause=800&color=FBFBFB&random=true&width=700&height=100&lines=HAHA!+FEAR+YOUR+NIGHTMARES%2C+ELBAF!;Your+dreams+die+here!;Nightmares+become+reality!;You+Filthy+Gyojin!"
+    src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=30&duration=2000&pause=800&color=FBFBFB&random=true&center=true&vCenter=true&width=700&height=100&lines=HAHA!+FEAR+YOUR+NIGHTMARES%2C+ELBAF!;Your+dreams+die+here!;Nightmares+become+reality!;You+Filthy+Gyojin!"
     alt="Typing SVG"
   />
 </a>
