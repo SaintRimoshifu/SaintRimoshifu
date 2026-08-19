@@ -36,3 +36,13 @@
 />
 
 </div>
+<div align="center">
+
+<a href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8" target="_blank">
+  <img
+    src="https://img.shields.io/badge/💮%20NOW%20PLAYING-Nightmare%20%E2%80%94%20Avenged%20Sevenfold-FDFDD7?style=for-the-badge&labelColor=9B838F"
+    alt="Now Playing — Nightmare by Avenged Sevenfold"
+  >
+</a>
+
+</div>
